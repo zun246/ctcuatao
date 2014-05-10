@@ -6,6 +6,6 @@
 </head>
 <body>
 	<h1>hello world</h1>
-	My Idol: <img src="maria_ozawa.jpg" />
+	My Idol: <img src="/img/christina-grimmie_2013-1377353205.jpg" />
 </body>
 </html>
